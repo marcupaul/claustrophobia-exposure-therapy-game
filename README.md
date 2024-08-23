@@ -1,4 +1,4 @@
-# Claustroclast - Claustrophobia Exposure Therapy 3D Game
+# Claustroclast - Claustrophobia Exposure Therapy Game
 
 This project contains the code for a 3D game application titled "Claustroclast", created in the `Unity` cross-platform game engine, meant to assist in tempering people's claustrophobia through gradual exposure therapy. 
 
